@@ -22,7 +22,7 @@ header span {
 .inline-block-menu a {
  text-decoration: none;
  padding: 5px;
- background: lightblue;
+ background: rgb(230, 173, 176);
 }
 /* Float Navigation */
 .float-menu ul {
